@@ -113,6 +113,7 @@ nav ul li a:hover {
 .container .detail {
     color:black;
     font-size:20px;
+    padding:10 10 10 10;
 }
 .container input {
     height: 50px;
