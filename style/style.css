@@ -107,11 +107,9 @@ nav ul li a:hover {
     
     .container {
         font-family:"calibri";
-        margin-left:auto;
-        margin-right:auto;
-        text-Align:center;
         
     .container img {
+        margin-top:20px;
         width: 100%;
         height: auto;
         position:relative;
@@ -123,6 +121,7 @@ nav ul li a:hover {
         margin-bottom: 0px;
         font-size:30px;
         font-weight: bold;
+        text-Align:center;
     }
 
     .container .header2 {
@@ -131,12 +130,14 @@ nav ul li a:hover {
         margin-bottom: 0px;
         font-size:25px;
         font-weight: bold;
+        text-Align:center;
 
     }
     
     .container .detail {
         color:black;
         font-size:15px;
+        text-Align:center;
     }
     .container input {
         height: 50px;
