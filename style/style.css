@@ -128,7 +128,7 @@ nav ul li a:hover {
         margin-bottom: 0px;
         font-size:30px;
         font-weight: bold;
-        text-Align:center;
+
     }
 
     .container .header2 {
@@ -137,16 +137,16 @@ nav ul li a:hover {
         margin-bottom: 0px;
         font-size:25px;
         font-weight: bold;
-        text-Align:center;
+
 
     }
     
     .container .detail {
         color:black;
         font-size:15px;
-        text-Align:center;
+
     }
-    .container input {
+    .container button {
         height: 50px;
         width: 140px;
         background-color: red;
@@ -258,7 +258,7 @@ nav ul li a:hover {
         font-size:20px;
     }
     
-    .container input {
+    .container button {
         height: 50px;
         width: 140px;
         background-color: red;
