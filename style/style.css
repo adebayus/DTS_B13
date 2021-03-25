@@ -86,7 +86,7 @@ nav ul li a:hover {
 .container img {
     width: 50%;
     height: auto;
-    position: absolute;
+    float:right;
     right: 0;
 }
 
@@ -109,6 +109,7 @@ nav ul li a:hover {
 .container .detail {
     color:black;
     font-size:20px;
+    padding-top;20px;
 }
 .container input {
     height: 50px;
@@ -118,6 +119,7 @@ nav ul li a:hover {
     border-radius: 5px;
     border: none;
     box-shadow: 2px 2px 2px #bbbaba;
+    padding-top:20px;
 }
 
 /*
