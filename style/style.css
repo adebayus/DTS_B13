@@ -1,17 +1,36 @@
+
+
 *{
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-/* mobile */
-@media (min-width: 320px){
+.container {
+    max-width: 1114px;
+    /* margin: 10; */
+    margin: 0px auto;
+    padding: 20px;
 
+}
+.full-container{
+    width: 100%;
+
+}
+
+
+/* mobile */
+@media (max-width: 670px){
+    .container{
+        max-width: 100%;
+    }
 }
 
 /* Tablet */
-@media (min-width: 481px){
-
+@media (max-width: 1000px){
+    .container {
+        max-width: 800px;
+    }
 }
-/* Dekstop */
-@media (min-width: 1025px){
 
-}
