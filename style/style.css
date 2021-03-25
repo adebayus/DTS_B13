@@ -81,8 +81,7 @@ nav ul li a:hover {
 
 .container {
     font-family:"calibri";
-    position:absolute;
-    margin:auto;
+    margin-top:200px;
 }
 
 .container img {
