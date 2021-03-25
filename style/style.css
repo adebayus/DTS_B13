@@ -125,6 +125,49 @@ nav ul li a:hover {
 
 /* Notebook */
 @media screen and (min-width: 1000px){
-    
+    body {
+        min-height: 100vh;
+        position:relative;
+    }    
+    footer {
+        position:absolute;
+        bottom:0;
+        left:0;
+        right:0;
+    }
+    .copyright {
+        background-color:red;
+        padding-top:10px;
+        padding-bottom:10px;
+        text-align: center;
+        color: white;
+    }
+    .copyright span {
+        font-weight: bold;
+    }
+    .appleicon i {
+        font-size:60px;
+        color:black;
+    }
+    .footer {
+        width:80%;
+        margin:auto;
+        display:grid;
+        grid-template-columns: auto auto auto;
+        font-size: 20px;     
+    }
+    .contacttext {
+        font-weight: bolder;
+    }
+    .sponsor {
+        font-size: larger;
+    }
+    .icon1 {
+        padding-left: 3px;
+    }
+
+    .namapt {
+        font-weight: bold;
+    }
 }
 
