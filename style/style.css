@@ -81,11 +81,12 @@ nav ul li a:hover {
 
 .container {
     font-family:"calibri";
+    position:relative;
 }
 
 .container img {
-    width: 40%;
-    height: 40%;
+    width: 50%;
+    height: 50%;
     float: right;
     margin-top:100px;
 }
