@@ -1,3 +1,17 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+
+/* mobile */
+@media (min-width: 320px){
+
+}
+
+/* Tablet */
+@media (min-width: 481px){
+
+}
+/* Dekstop */
+@media (min-width: 1025px){
+
+}
