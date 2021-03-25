@@ -81,6 +81,10 @@ nav ul li a:hover {
 
 .container {
     font-family:"calibri";
+    max-width: 1114px;
+    margin: 10;
+    margin: 0px auto;
+    padding: 20px;
 }
 
 .container img {
